@@ -1,0 +1,6 @@
+make clean
+make
+
+// write your code in cism.c then execute the code using following command
+
+./csim-ref -s 4 -E 1 -b 4 -t traces/yi.trace
